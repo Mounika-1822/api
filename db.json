@@ -1,6 +1,5 @@
 {
-  "data" :{
-  "students": [
+  "data" :[
     {
       "id": "1",
       "name": "Mouni"
@@ -67,5 +66,5 @@
     }
   ]
 }
-}
+
     
